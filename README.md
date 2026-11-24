@@ -27,7 +27,7 @@ One conversation, step by step:
 5. **Core loop.** The one thing your user does again and again.
 6. **Signature mechanic** (optional). What makes it feel different.
 7. **Your 3 biggest decisions** and the "because…" behind each.
-8. **Not in v1.** Everything you're consciously *not* doing first.
+8. **Later, not now.** Things you want someday, but not in the first version of your app. Writing them down stops them from blocking you.
 9. **One move for tomorrow.** Small enough that there's no excuse.
 
 At the end you get a markdown brief ready to paste into Notion, Obsidian or a README. See [`examples/example-brief.md`](examples/example-brief.md).
@@ -40,7 +40,7 @@ At the end you get a markdown brief ready to paste into Notion, Obsidian or a RE
 - **No verdicts.** It never says "this is the best idea". If your reason holds up, it drops the point.
 - **Its ideas come after yours,** max 3, marked 🟡 *raw material, reject freely*.
 - **Say "no, I'm going with it"** to close any topic.
-- **Stack talk waits.** Frameworks, AI features and domain names go on the "Not in v1" list until the person and the problem are clear.
+- **Stack talk waits.** Frameworks, AI features and domain names go on the "Later, not now" list until the person and the problem are clear.
 - It speaks English by default and switches if you write in another language.
 
 ## Install
